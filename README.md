@@ -2,4 +2,4 @@
 python snake game xD
 
 
-First part
+First part of snake game
