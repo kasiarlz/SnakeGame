@@ -4,4 +4,4 @@ python snake game xD
 
 
 
-Enjoy ! ha
+Enjoy ! h
