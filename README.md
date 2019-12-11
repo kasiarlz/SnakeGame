@@ -1,6 +1,6 @@
 # SnakeGame
 python snake game xD
-Made with
+Made with Pygame
 
 
 
