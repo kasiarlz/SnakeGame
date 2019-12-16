@@ -2,7 +2,7 @@
 python classic snake game xD
 
 Made with Pygame
-Optimize speed
+Optimize speed to make it easier
 
 
 
