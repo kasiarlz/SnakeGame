@@ -1,5 +1,5 @@
 # SnakeGame
-python classic snake game 
+Python classic snake game 
 
 Made with Pygame
 
